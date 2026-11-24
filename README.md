@@ -1,6 +1,4 @@
-# Hospital Management Backend — CSE 3102L
-
-Flask + SQLite REST API based on Topic 04's layered backend architecture.
+# Hospital Management Backend 
 
 ## Features
 1. Doctor management: create, list, retrieve, update and delete doctors.
